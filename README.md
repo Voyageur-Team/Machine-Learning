@@ -11,7 +11,6 @@ Specifically, we aim to predict tourism destination based on inputted category, 
 - **places_dataset**: Data of the 1015 tourism destination from 12 region (Bali, Bandung, Bogor, Jakarta, Lombok, Malang, Manado, Raja Ampat, Semarang, Solo, Surabaya, Yogyakarta).
   **Features**: Place_Id, Place_Name, Description, Category, City, Price, Rating, Link, Address
 - **places_ratings**: User Reviews about the tourism destination from Google Maps Reviews, consisting 26372 data from 13173 users. 
-- **Data Type**: Tabular
 
 ## Environment Setup
 
